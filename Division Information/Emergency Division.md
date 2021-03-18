@@ -4,7 +4,7 @@
 
 ## §1 | Division Information
 ZXzx
-## §1 | Division Directorage
+## §1 | Division Directorate
 *ManiaOddity* is currently the director of the Emergency Divsiion.
 
 ----------------------------------------------------------
