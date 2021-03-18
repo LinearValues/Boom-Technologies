@@ -3,7 +3,7 @@
 
 ## §1 | Repository Information
 
-Welcome to the Boom Technologies repository. You can find all of the information relating towards the Boom Technologies foundation in this repository. 
+Welcome to the Boom Technologies repository. You can find all of the essential information relating towards the Boom Technologies foundation in this repository, including the divisional regulations and the foundation's structural backstory.  
 
 ## §2-1 Foundation Group
 https://www.roblox.com/groups/3822208/Boom-Technologies
