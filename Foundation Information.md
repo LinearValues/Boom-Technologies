@@ -23,3 +23,4 @@ Links towards offsite sections of the foundation:
 
 ## §4 | Executive Information
 1. The foundation is concurrently being directed by *LinearValues*.
+2. The following is a list of all of the concurrent Directorial Department members: *ManiaOddity*, *axelstash*, *mizusoup*, and *Cooldkid25468*.
