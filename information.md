@@ -5,4 +5,4 @@ Among the many advancements that humanity has made throughout the millenniums co
 
 
 ## Github Information
-This is where many of the divisional information and regulations are posted!
+This is where many of the divisional information and regulations are posted! 
