@@ -23,3 +23,5 @@ As with any other organizations, there are also rules to follow. Regulations are
 16. Plagiarism is strongly discouraged and would result in a verbal warning if caught doing so.
 17. Leakage of divisional or developmental information will result in a verbal warning.
 18. All of the terms of service apply in the foundation. Breaking any instated term found in this will result in a report to the Roblox staff and a potential foundational ban depending on the severity of the term broken.
+
+> Currently up to date as of March 18th, 2021.
