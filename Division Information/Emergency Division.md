@@ -15,7 +15,8 @@ The emergency division is apart of the divisions of foundation. It's based off o
 ## §5 | Perks Of Being Inside The Division
 ?
 ## §6 | Relevant Links
-?
+[Division Page](https://www.roblox.com/groups/4717972/BT-Emergency-Division#!/about)
+
 ----------------------------------------------------------
 
 > The Emergency Divsion file is currently up to date as of March 18th, 2021.
