@@ -1,8 +1,6 @@
-# Boom-Technologies
+# Boom-Technologies - Emergency Division
 
 ----------------------------------------------------------
-
-## Emergency Division
 
 ## §1 | Division Information
 
