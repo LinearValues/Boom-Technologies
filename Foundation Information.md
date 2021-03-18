@@ -20,3 +20,6 @@ Links towards group sections of the foundation:
 ## §3 | Offsite Reference Links
 Links towards offsite sections of the foundation:
 1. Communications Server Link - https://www.discord.gg/erfgb4c
+
+## §4 | Executive Information
+1. The foundation is concurrently being directed by ***LinearValues***.
