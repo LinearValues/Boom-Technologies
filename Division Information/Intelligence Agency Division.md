@@ -1,4 +1,4 @@
-# Boom-Technologies - Emergency Division
+# Boom-Technologies - Intelligence Agency Division
 
 ----------------------------------------------------------
 
@@ -19,4 +19,4 @@ The intelligence agency department is apart of the divisions of foundation. It's
 
 ----------------------------------------------------------
 
-> The Emergency Divsion file is currently up to date as of March 18th, 2021.
+> The Intelligence Agency Divsion file is currently up to date as of March 18th, 2021.
