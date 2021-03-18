@@ -4,9 +4,8 @@
 
 Welcome to the Boom Technologies repository. You can find all of the essential information relating towards the Boom Technologies foundation in this repository, including the divisional regulations and the foundation's structural backstory.  
 
-
 ## §2 | Reference Links
-Links towards sections of the foundation:
+Links towards group sections of the foundation:
 1. Foundation Link - https://www.roblox.com/groups/3822208/Boom-Technologies
 2. Executive Division Link - https://www.roblox.com/groups/5442029/BT-Executive-Division 
 3. Justice Department Link - https://www.roblox.com/groups/8636193/BT-Justice-Department
