@@ -1,5 +1,4 @@
 # Boom-Technologies 
-----------------------
 
 ## §1 | Repository Information
 
