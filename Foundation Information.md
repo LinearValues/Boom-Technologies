@@ -22,4 +22,4 @@ Links towards offsite sections of the foundation:
 1. Communications Server Link - https://www.discord.gg/erfgb4c
 
 ## §4 | Executive Information
-1. The foundation is concurrently being directed by ***LinearValues***.
+1. The foundation is concurrently being directed by *LinearValues*.
