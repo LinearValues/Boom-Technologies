@@ -17,3 +17,4 @@ Links towards group sections of the foundation:
 8. Janitorial Department Link - https://www.roblox.com/groups/8636349/BT-Janitorial-Department
 9. Media Development Division Link - https://www.roblox.com/groups/4944299/BT-Media-Development
 
+1. Communications Server Link - https://www.discord.gg/erfgb4c
