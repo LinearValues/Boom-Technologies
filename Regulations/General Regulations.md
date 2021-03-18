@@ -16,3 +16,10 @@ As with any other organizations, there are also rules to follow. Regulations are
 9. Please respect everyone in this group. This especially goes towards staff individuals inside of the group as they are expected to respect their lower ranked peers If a staff member asks you to stop doing something that you shouldn’t be doing, then you should stop. Everybody in the group should respect each-other, if you don’t follow this regulation then you will be verbally warned.
 10. The main communication server regulations apply to all of the divisional communication servers. These regulations also apply to those servers.
 11. The use of derogatory language, causing conflict, or otherwise being toxic in the group will result in a verbal warning.
+12. Impersonating personnel on the executive team or individuals in general will result in a permanent ban unless you change your username.
+13. Phishing, scamming, or otherwise leaking somebody else’s information will result in a permanent foundation ban and you will be reported to Roblox if you do so.
+14. Begging for ranks will only decrease the chances of you actually achieving it, not increase it. If you want to achieve a specific rank, please view the rank information subsection. 
+15. Bypassing any of the regulations by using loopholes will result in a temporary ban depending on the severity of the regulation broken.
+16. Plagiarism is strongly discouraged and would result in a verbal warning if caught doing so.
+17. Leakage of divisional or developmental information will result in a verbal warning.
+18. All of the terms of service apply in the foundation. Breaking any instated term found in this will result in a report to the Roblox staff and a potential foundational ban depending on the severity of the term broken.
