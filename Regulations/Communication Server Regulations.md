@@ -27,6 +27,3 @@ If you have a suggestion or complaint for any of these regulations, then please 
 
 Use this [invite](http://discord.gg/erfgb4c) to join the server and to invite other members into the server!
 
-----------------------------------------------------------
-
-> The Communistaion Server Regulations file is currently up to date as of March 18th, 2021.
