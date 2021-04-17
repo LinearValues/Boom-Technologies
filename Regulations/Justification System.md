@@ -9,3 +9,5 @@ Whenever a regulation has been broken without specification on what the penalty 
 #1-2 | #3-4
 ---- | ----
 The insubordinate is verbally warned for breaking the regulation. When executives are enforcing this, please ensure that they mention which regulation. | The insubordinate is kicked for breaking the regulation. When executives are enforcing this, please ensure that they mention which regulation.
+
+16c999e8c71134401a78d4d46435517b2271d6ac
