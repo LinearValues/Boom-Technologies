@@ -4,7 +4,6 @@
 
 # Development Progression - 2021
 
-## Quarter 1:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 - [x] @mentions, #refs, [links](),
