@@ -23,7 +23,7 @@
 - [ ] To be filled out.
 
 # Current Foundation Developers
-`I have no clue why I made this section because LinearValues is the only developer for the foundation.`
+> I have no clue why I made this section because LinearValues is the only developer for the foundation.
 
 - LinearValues: Lead project developer, graphic artist, modeler, programmer, user interface developer, communications server bot developer. 
 
