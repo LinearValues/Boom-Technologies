@@ -9,12 +9,27 @@
 - [x] Start development on the new version of the Sustainable Facility.  
 - [ ] Start the facility's main interior and exterior design.
 - [ ] Finish all of the documentation for the foundation.
+- [ ] Completely revamp the communications server once more to bring out more personality, group customizability, and uniqueness.
+- [ ] **(Priority)** Make a baguette. 
 
+``Second Quarter | June 1 - July 31 ``
+- [ ] To be filled out.
+
+``Third Quarter | August 1 - September 30``
+- [ ] **(On Track)** Release the Sustainable Facility
+
+``Fourth Quarter | October 1 - December 31``
+- [ ] To be filled out.
+
+# Development Roadmap - 2022
+
+``First Quarter | January 1 - May 31``
+- [ ] To be filled out.
 ``Second Quarter | June 1 - July 31 ``
 - [ ] To be filled out.
 
 ``Third Quarter | August 1 - September 30``
 - [ ] To be filled out.
 
-``Third Quarter | October 1 - December 31``
+``Fourth Quarter | October 1 - December 31``
 - [ ] To be filled out.
