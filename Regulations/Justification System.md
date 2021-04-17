@@ -10,8 +10,8 @@ Whenever a regulation has been broken without specification on what the penalty 
 ---------------------- | -------------------- | --------------------
 The insubordinate is verbally warned for breaking the regulation. | The insubordinate is muted for the length of 12 hours for continuing to break the regulations. | The insubordinate is muted again for 7 days for continuing to break regulations.
 
-5 Regulations Broken | 6 Regulations Broken
--------------------- | --------------------
-The insubordinate is kicked for contuing to break the regulations. | The insubordinate is permanently banned from the communications server and is removed the foundation for breaking too many regulations.  
+5 Regulations Broken | 6 Regulations Broken | 7 Regulations Broken
+-------------------- | -------------------- | --------------------
+The insubordinate is kicked for contuing to break the regulations. | The insubordinate is permanently banned from the communications server and is removed the foundation for breaking too many regulations. | The insubordinate is completely blacklisted from the foundation. This can only be overruled by the foundation's current director.
 
 When executives are enforcing this, please ensure that they mention which regulation.
