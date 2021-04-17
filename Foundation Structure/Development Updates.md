@@ -6,11 +6,11 @@
 # Development Roadmap - 2021
 
 ``First Quarter | January 1 - May 31``
-- [x] **(February 28th, 2021)** Start development on the new version of the Sustainable Facility.  
+- [x] **[February 28th, 2021]** Start development on the new version of the Sustainable Facility.  
 - [ ] Start the facility's main interior and exterior design.
 - [ ] Finish all of the documentation for the foundation.
 - [ ] Completely revamp the communications server once more to bring out more personality, group customizability, and uniqueness.
-- [x] **April 17th, 2021)** **(Priority)** Make a baguette. 
+- [x] **[April 17th, 2021]** **[Priority]** Make a baguette. 
 
 ``Second Quarter | June 1 - July 31 ``
 - [ ] To be filled out.
