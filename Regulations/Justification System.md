@@ -16,3 +16,4 @@ When executives and members of the justice department are enforcing this, please
 
 ##### What happens if an executive becomes rogue?
 
+They are to be temporarily demoted by higher ranking executives.
