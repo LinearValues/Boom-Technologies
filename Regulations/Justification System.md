@@ -10,7 +10,7 @@ Whenever a regulation has been broken without specification on what the penalty 
 ---- | ----
 The insubordinate is verbally warned for breaking the regulation. When executives are enforcing this, please ensure that they mention which regulation. | The insubordinate is kicked for breaking the regulation. When executives are enforcing this, please ensure that they mention which regulation.
 
-First Header | Second Header
------------- | -------------
+1-2 Regulations Broken | Second Header
+---------------------- | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
