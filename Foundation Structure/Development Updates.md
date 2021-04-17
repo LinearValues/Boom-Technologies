@@ -10,7 +10,7 @@
 - [ ] Start the facility's main interior and exterior design.
 - [ ] Finish all of the documentation for the foundation.
 - [ ] Completely revamp the communications server once more to bring out more personality, group customizability, and uniqueness.
-- [x] **(Priority)** Make a baguette. 
+- [x] **April 17th, 2021)** **(Priority)** Make a baguette. 
 
 ``Second Quarter | June 1 - July 31 ``
 - [ ] To be filled out.
