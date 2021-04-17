@@ -2,9 +2,7 @@
 # 2021
 ```css
 # Moderation-History | January-2021->
-
 # Moderation-History | February-2021->
-
 # Moderation-History | March-2021->
 < 3-13 | "559993872680484864"|"suspectshot108" | Removed from the Chief Executive Officer role for violating multuple regulations. > 
 
