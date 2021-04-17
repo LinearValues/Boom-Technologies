@@ -13,24 +13,15 @@
 - [x] **[April 17th, 2021]** **[Priority]** Make a baguette. 
 
 ``Second Quarter | June 1 - July 31 ``
-- [ ] To be filled out.
+- [ ] Finalize the group's ranks, documentation, and recruit more executives to lead the unoccupied divisions.
+- [ ] 
 
 ``Third Quarter | August 1 - September 30``
-- [ ] **(On Track)** Release the Sustainable Facility
+- [ ] **[On Track]** Release the Sustainable Facility
 
 ``Fourth Quarter | October 1 - December 31``
 - [ ] To be filled out.
 
-# Development Roadmap - 2022
+# Current Foundation Developers
 
-``First Quarter | January 1 - May 31``
-- [ ] To be filled out.
-
-``Second Quarter | June 1 - July 31 ``
-- [ ] To be filled out.
-
-``Third Quarter | August 1 - September 30``
-- [ ] To be filled out.
-
-``Fourth Quarter | October 1 - December 31``
-- [ ] To be filled out.
+- LinearValues: Lead project developer, graphic artist, modeler, programmer, user interface developer, communications server bot developer. 
