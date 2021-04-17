@@ -25,6 +25,7 @@
 
 ``First Quarter | January 1 - May 31``
 - [ ] To be filled out.
+
 ``Second Quarter | June 1 - July 31 ``
 - [ ] To be filled out.
 
