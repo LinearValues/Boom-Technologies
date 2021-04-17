@@ -4,5 +4,5 @@
 
 # Development Progression - 2021
 
-- [x] this is a complete item
+- [ x ] Start development on the new version of the Sustainable Facility.  
 - [ ] this is an incomplete item
