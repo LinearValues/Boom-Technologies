@@ -2,10 +2,9 @@
 
 ----------------------------------------------------------
 
-## §1 | Development Logs
-- #1 | April 17th, 2021: Implemented new systems and redesigned the Sustainable Facility to fit in more detail and easier development access. Progression is still ahead.
+## §1 | Development Roadmap - 2021
 
-## §2 | Development Roadmap - 2021
+- #1 | April 17th, 2021: Implemented new systems and redesigned the Sustainable Facility to fit in more detail and easier development access. Progression is still ahead.
 
 ### First Quarter | January 1 - May 31
 - [x] **[February 28th, 2021]** Start development on the new version of the Sustainable Facility.  
