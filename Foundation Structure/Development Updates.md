@@ -1,7 +1,6 @@
 
 # Development Logs
-```#1 | April 17th, 2021: Implemented new systems and redesigned the Sustainable Facility to fit in more detail and easier development access. Progression is still ahead. The communications server will undergo revamp; details are listed below.```
-```Communications server revamp: Divison channels and categories would be made, and more personality will be added to the server.``` 
+```#1 | April 17th, 2021: Implemented new systems and redesigned the Sustainable Facility to fit in more detail and easier development access. Progression is still ahead.```
 
 # Development Roadmap - 2021
 
@@ -23,8 +22,4 @@
 
 ``Fourth Quarter | October 1 - December 31``
 - [ ] To be filled out.
-
-# Current Foundation Developers
-> I honestly have no clue why I made this section because LinearValues is the only developer for the foundation.
-- LinearValues: Lead project developer, graphic artist, modeler, programmer, user interface developer, communications server bot developer. 
 
