@@ -7,6 +7,8 @@
 
 ## §2 | Development Roadmap - 2021
 
+#### First Quarter | January 1 - May 31
+
 ``First Quarter | January 1 - May 31``
 - [x] **[February 28th, 2021]** Start development on the new version of the Sustainable Facility.  
 - [ ] **[In Progress]** Start the facility's main interior and exterior design.
