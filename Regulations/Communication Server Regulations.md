@@ -1,4 +1,4 @@
-# Boom-Technologies | Communication Server Regulations
+# Boom-Technologies - Communication Server Regulations
 
 ----------------------------------------------------------
 
