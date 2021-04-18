@@ -21,4 +21,6 @@
 ### Fourth Quarter | October 1 - December 31
 - [ ] To be filled out.
 
+### Development Update Logs
+
 > - #1 | April 17th, 2021: Implemented new systems and redesigned the Sustainable Facility to fit in more detail and easier development access. Progression is still ahead.
