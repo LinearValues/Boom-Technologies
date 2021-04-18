@@ -13,7 +13,3 @@ Whenever a regulation has been broken without specification on what the penalty 
 - 7 Regulations Broken: The insubordinate is completely blacklisted from the foundation. This can only be overruled by the foundation's current director.
 
 When executives and members of the justice department are enforcing this, please ensure that they mention which regulation.
-
-##### What happens if an executive becomes rogue?
-
-They are to be temporarily demoted by higher ranking executives.
