@@ -1,5 +1,7 @@
 # Boom-Technologies - Emergency Division
 
+------------------------------------------------
+
 ## Division Statistics
 
 #### Division Name: **Emergency Division**
