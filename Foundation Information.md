@@ -8,14 +8,14 @@ Among the many advancements that humanity has made throughout the millenniums co
 ## §2 | Reference Links
 Links towards group sections of the foundation:
 1. Foundation Link - https://www.roblox.com/groups/3822208/Boom-Technologies
-2. Executive Division Link - https://www.roblox.com/groups/5442029/BT-Executive-Division 
-3. Justice Department Link - https://www.roblox.com/groups/8636193/BT-Justice-Department
-4. Maintenance Division Link - https://www.roblox.com/groups/4722981/BT-Maintenance-Division 
-5. Intelligence Agency Division Link - https://www.roblox.com/groups/4707753/BT-Intelligence-Agency
-6. Research Division Link - https://www.roblox.com/groups/4711518/BT-Security-Division
-7. Emergency Division Link - https://www.roblox.com/groups/4717972/BT-Emergency-Division
-8. Janitorial Department Link - https://www.roblox.com/groups/8636349/BT-Janitorial-Department
-9. Media Development Division Link - [Group Link](https://www.roblox.com/groups/4944299/BT-Media-Development) | [Document Link]()
+2. Executive Division Links - https://www.roblox.com/groups/5442029/BT-Executive-Division 
+3. Justice Department Links - https://www.roblox.com/groups/8636193/BT-Justice-Department
+4. Maintenance Division Links - https://www.roblox.com/groups/4722981/BT-Maintenance-Division 
+5. Intelligence Agency Division Links - https://www.roblox.com/groups/4707753/BT-Intelligence-Agency
+6. Research Division Links - https://www.roblox.com/groups/4711518/BT-Security-Division
+7. Emergency Division Links - https://www.roblox.com/groups/4717972/BT-Emergency-Division
+8. Janitorial Department Links - https://www.roblox.com/groups/8636349/BT-Janitorial-Department
+9. Media Development Division Links - [Group Link](https://www.roblox.com/groups/4944299/BT-Media-Development) | [Document Link]()
 
 ## §3 | Offsite Reference Links
 Links towards offsite sections of the foundation:
