@@ -20,6 +20,7 @@ The emergency division goes through a tryout process whereas trainee members wou
 1. Rescue Trainee - Rescue trainees are untrained members of the division. They have successfully.
 ## §4 | Divisional Regulations
 1. Do not abuse your perks, tools, or equipment onto fellow foundation personnel and visiting associates. This would result in the removal of any abused perk(s).
+2. All [foundational regulations]() are to be followed. Breaking this regulation would result in the termination of the violator's division status.
 ## §5 | Perks Of Being Inside The Division
 - Division members are granted specific tools and equipment to aid them in only emergency-requested scenarios. Tools and equipment may include, but not limited to: powersaws, fire hoses, radiation-resilient suits, 
 - Emergency division members are granted facility-wide access to all levels under the __Highly Classified__ level. [View the sectional levels here and the allowed division(s) for those levels.]()
