@@ -2,9 +2,11 @@
 
 ----------------------------------------------------------
 
+## Division Statistics
+
 #### Division Name: **Emergency Division**
 #### Division Activity Status: Active Division
----
+
 #### Division Classification: Public Primary
 #### Division Directorate:
   - asd
