@@ -3,6 +3,7 @@
 ----------------------------------------------------------
 
 ### Division Name - **Emergency Division**
+### Division Activity Status - Active
 
 ### Division Classification -
 ### Division Directorate - 
