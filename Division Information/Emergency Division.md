@@ -2,11 +2,11 @@
 
 ----------------------------------------------------------
 
-#### Division Name - **Emergency Division**
-#### Division Activity Status - Active
+#### Division Name: **Emergency Division**
+#### Division Activity Status: Active
 
-#### Division Classification -
-#### Division Directorate - 
+#### Division Classification: Public Primary
+#### Division Directorate:
   - asd
   - 
 
