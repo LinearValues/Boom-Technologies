@@ -15,7 +15,6 @@ The emergency division goes through a tryout process whereas trainee members wou
 ?
 ## §5 | Perks Of Being Inside The Division
 - Emergency division inductees are granted facility-wide access alongside tools to aid them in emergency-requested scenarios.
-
-- Division perks may be revoked after abuse.
+- All divisional perks may be revoked after caught abusing or mishandling them. Remember to use them according to your division's primary purpose.
 ## §6 | Relevant Links
 [Division Page](https://www.roblox.com/groups/4717972/BT-Emergency-Division#!/about)
