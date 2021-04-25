@@ -18,10 +18,7 @@ The emergency division is apart of the divisions of foundation. It's based off o
 The emergency division goes through a tryout process whereas trainee members would have to complete and pass a couple of scenarios relating towards their desired emergency task subdivision. Tasks include the subdivision's scenario, simple combat strategy when necessary, and information on radioactivity to prevent hazardous interaction with substances. 
 ## §3 | Ranking Up In The Division
 1. Rescue Trainee - Rescue trainees are untrained members of the division. They have successfully.
-## §4 | Division Directorate
-* **ManiaOddity**, Directorial Department, is currently the director of the Emergency Division.
-* **LinearValues**, Foundation Director, currently oversees the division and its operations.
-## §5 | Divisional Regulations
+## §4 | Divisional Regulations
 ?
 ## §5 | Perks Of Being Inside The Division
 - Division members are granted specific tools and equipment to aid them in only emergency-requested scenarios. Tools and equipment may include, but not limited to: powersaws, fire hoses, radiation-resilient suits, 
