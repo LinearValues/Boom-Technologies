@@ -16,7 +16,3 @@ The emergency division goes through a tryout process whereas trainee members wou
 - Emergency division inductees are granted facility-wide access alongside tools to aid them in emergency-requested scenarios.
 ## §6 | Relevant Links
 [Division Page](https://www.roblox.com/groups/4717972/BT-Emergency-Division#!/about)
-
-----------------------------------------------------------
-
-> The Emergency Divsion file is currently up to date as of March 18th, 2021.
