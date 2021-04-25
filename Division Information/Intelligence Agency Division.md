@@ -15,7 +15,7 @@
 ## §1 | Introductory Paragraph
 The intelligence agency department is apart of the divisions of foundation. It's based on highly skilled investigative tactics that are issued during certain situations. The intelligence agency is a primary division within the foundation, meaning that members can only join one of each primary division; but each primary division comes with the probability of promotions within the main foundation group. Members are highly trained to withstand all obstacles in the way of them in order to investigate topics. Members may get promoted within the foundation based on their investigative skills.
 ## §2 | Getting Inducted Into The Division
-The emergency division goes through a tryout process whereas trainee members would have to complete and pass a couple of scenarios relating towards their desired emergency task subdivision. Tasks include the subdivision's scenario, simple combat strategy when necessary, and information on radioactivity to prevent hazardous interaction with substances. 
+The 
 ## §3 | Ranking Up In The Division
 1. Trainee Agent - Untrained members of the division. 
 ## §4 | Divisional Regulations
