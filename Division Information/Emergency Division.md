@@ -9,7 +9,7 @@ The emergency division goes through a tryout process whereas trainee members wou
 ## §3 | Ranking Up In The Division
 ?
 ## §4 | Division Directorate
-*ManiaOddity* is currently the director of the Emergency Division.
+**ManiaOddity** is currently the director of the Emergency Division.
 ## §5 | Divisional Regulations
 ?
 ## §5 | Perks Of Being Inside The Division
