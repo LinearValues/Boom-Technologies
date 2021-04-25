@@ -1,7 +1,5 @@
 # Boom-Technologies - Emergency Division
 
-----------------------------------------------------------
-
 ## Division Statistics
 
 #### Division Name: **Emergency Division**
@@ -26,5 +24,3 @@ The emergency division goes through a tryout process whereas trainee members wou
 - All divisional perks may be revoked after caught abusing or mishandling them. Remember to use them according to your division's primary purpose. This would apply to __all__ ranks inside of the division and its subdivision(s). 
 ## §6 | Relevant Links
 [Division Page](https://www.roblox.com/groups/4717972/BT-Emergency-Division#!/about)
-
-> C
