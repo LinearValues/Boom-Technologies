@@ -26,4 +26,4 @@ The emergency division goes through a tryout process whereas trainee members wou
 - Emergency division members are granted facility-wide access to all levels under the __Highly Classified__ level. [View the sectional levels here and the allowed division(s) for those levels.]()
 - All divisional perks may be revoked after caught abusing or mishandling them. Remember to use them according to your division's primary purpose. This would apply to __all__ ranks inside of the division and its subdivision(s). 
 ## §6 | Relevant Links
-[Division Page](https://www.roblox.com/groups/4717972/BT-Emergency-Division#!/about)
+- [Division Page](https://www.roblox.com/groups/4717972/BT-Emergency-Division#!/about)
