@@ -2,7 +2,10 @@
 
 ----------------------------------------------------------
 
-### Department Classification -  
+### Division Classification -
+### Division High Ranks - 
+  - asd
+  - 
 
 ## §1 | Introductory Paragraph
 The emergency division is apart of the divisions of foundation. It's based off of keeping the facility safe at all times. Emergency is a primary division within the foundation, meaning that members can only join one of each primary division; but each primary division comes with the probability of promotions within the main foundation group. Members are trained to beat fires, help with medical procedures, and keep the facilities safe from any disasters. Members may get promoted within the foundation based off of their hard work.
