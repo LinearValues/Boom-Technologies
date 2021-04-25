@@ -14,7 +14,7 @@ The emergency division goes through a tryout process whereas trainee members wou
 ## §5 | Divisional Regulations
 ?
 ## §5 | Perks Of Being Inside The Division
-- Division members are granted tools to aid them in only emergency-requested scenarios. Tools may include, but not limited to: powersaws,  
+- Division members are granted tools to aid them in only emergency-requested scenarios. Tools and equipment may include, but not limited to: powersaws, fire hoses, radiation resilient suits,  
 - Emergency division members are granted facility-wide access to all levels under the __Highly Classified__ level. [View the sectional levels here and the allowed division(s) for those levels.]()
 - All divisional perks may be revoked after caught abusing or mishandling them. Remember to use them according to your division's primary purpose. This would apply to __all__ ranks inside of the division and its subdivision(s). 
 ## §6 | Relevant Links
