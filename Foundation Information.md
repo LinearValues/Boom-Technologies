@@ -15,8 +15,7 @@ Links towards group sections of the foundation:
 6. Research Division Link - https://www.roblox.com/groups/4711518/BT-Security-Division
 7. Emergency Division Link - https://www.roblox.com/groups/4717972/BT-Emergency-Division
 8. Janitorial Department Link - https://www.roblox.com/groups/8636349/BT-Janitorial-Department
-9. Media Development Division Link - https://www.roblox.com/groups/4944299/BT-Media-Development
-  - Division Information: 
+9. Media Development Division Link - [Group Link](https://www.roblox.com/groups/4944299/BT-Media-Development) | [Document Link]()
 
 ## §3 | Offsite Reference Links
 Links towards offsite sections of the foundation:
